@@ -4,8 +4,8 @@ spring:
       
   datasource:
     url: jdbc:mysql://localhost:3306/SCHOOL_SERVICE
-    username: 
-    password: 
+    username: root
+    password: root
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     properties:
