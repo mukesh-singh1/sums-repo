@@ -21,4 +21,4 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://mks-discovery-server-brave-hedgehog.cfapps.io/eureka
+      defaultZone: http://localhost:5555/eureka
